@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hyemin-Cho&label=Profile views&color=0e75b6&style=flat" alt="Hyemin-Cho" /> </p>
-
 - 🔭 I'm currently working on **Building the websites I need.**
 
 - 🌱 I'm currently learning **Touch Design | Vibe Coding | HTML**
