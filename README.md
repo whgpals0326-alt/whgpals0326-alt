@@ -1,4 +1,4 @@
-# Hi 👋, I'm MIN CHO
+# Hi 👋, I'm Hyemin CHO
 
 ### A passionate developer from around the world
 
